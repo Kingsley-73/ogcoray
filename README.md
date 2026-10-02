@@ -106,7 +106,7 @@ I'm using hands-on projects to build a portfolio that demonstrates practical cyb
 
 Each project documents:
 
-**Build → Investigate → Analyze → Document → Improve**
+**Build  Investigate  Analyze  Document  Improve**
 
 ## Connect With Me
 
